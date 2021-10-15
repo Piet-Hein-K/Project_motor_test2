@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1633275340 source:c:\users\phkra\onedrive\documents\hhs leerjaar 1\microcontroller programmeren1\project ophaalbrug\project_motor_test2\fuse.c
+	<avr/io.h>
+
+1633275382 source:c:\users\phkra\onedrive\documents\hhs leerjaar 1\microcontroller programmeren1\project ophaalbrug\project_motor_test2\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1633362552 c:\users\phkra\onedrive\documents\hhs leerjaar 1\microcontroller programmeren1\project ophaalbrug\project_motor_test2\h_bridge.h
+
+1633275365 source:c:\users\phkra\onedrive\documents\hhs leerjaar 1\microcontroller programmeren1\project ophaalbrug\project_motor_test2\servo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"servo.h"
+
+1633275365 c:\users\phkra\onedrive\documents\hhs leerjaar 1\microcontroller programmeren1\project ophaalbrug\project_motor_test2\servo.h
+
+1634308416 source:c:\users\phkra\onedrive\documents\hhs leerjaar 1\microcontroller programmeren1\project ophaalbrug\project_motor_test2\main.c
+	<avr/io.h>
+	"servo.h"
+	<util/delay.h>
+	<stdbool.h>
+	"h_bridge.h"
+
